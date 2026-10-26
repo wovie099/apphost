@@ -339,6 +339,13 @@ class Spider(Spider):
                 "usersign": "1",
                 "device": "1",
                 "isMasterSupport": "1",
+                # --- 追加的参数 ---
+                "token": "75f9106467044d1299fd6eb4dab3522b",
+                "v": "1",
+                "uid": "130042654",
+                "expire": "1797658131.75233",
+                "gid": "1",
+                "sign": "50fe058995b653453cb1009848787bf6f1912023d96b20c5ea2e07e3440c3e81_8320512161d50e352778f359ba3f2d4f"
             }
             p_data = self.get_data(p_params, '/v3/video/play')
 
