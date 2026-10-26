@@ -1,0 +1,15 @@
+{
+    "sites": [
+        {
+            "key": "py_yifan",
+            "name": "爱壹帆🌸",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/wovie099/apphost/refs/heads/main/yifan.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60
+        }
+    ]
+}
